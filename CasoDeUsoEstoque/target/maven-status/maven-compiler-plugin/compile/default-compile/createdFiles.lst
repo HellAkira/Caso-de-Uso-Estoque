@@ -1,0 +1,13 @@
+FakeDB\FakeDBFuncionario.class
+Service\CategoriaService.class
+Pojo\CategoriaPojo.class
+Pojo\CamposComuns.class
+CasoDeUsoEstoque\Principal.class
+Service\FuncionarioService.class
+DAO\CategoriaDao.class
+FakeDB\EstoqueFakeDB.class
+DAO\FuncionarioDao.class
+Pojo\ProdutoPojo.class
+Pojo\SubCategoriaPojo.class
+Pojo\CamposDeData.class
+Pojo\FuncionarioPojo.class
